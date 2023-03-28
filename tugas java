@@ -1,0 +1,25 @@
+/*
+ *To change this lincense header, choose License Headers in Project properties.
+ *To change template file, choose tools ! Templates
+ *and open the template in the editor
+*/
+package javaapplication1;
+import java.util.Scanner;
+
+/*@author aditya putra */
+
+public class javaapplication1 {
+/*@param args the command line arguments */
+public static void main(String[] args){
+ System.out.println("Hello word");
+ int nilaiA=10;
+ int nilaiB=20;
+ double vardoublepertama =5775;
+ double var2kedua = 756;
+ boolean isplus = true;
+ System.out.println("nilaiA="+nilaiB);
+ System.out.println("nilaiB="+nilaiA)
+  }
+
+ 
+}
