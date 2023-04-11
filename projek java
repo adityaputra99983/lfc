@@ -1,0 +1,17 @@
+ant -f "C:\\Users\\C-15\\Documents\\NetBeansProjects\\tugas java" -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\C-15\Documents\NetBeansProjects\tugas java\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\C-15\Documents\NetBeansProjects\tugas java\build\built-jar.properties
+Compiling 1 source file to C:\Users\C-15\Documents\NetBeansProjects\tugas java\build\classes
+compile:
+run:
+Enter variable 1: 34
+Enter variable 2: 23
+Enter variable 3: 12
+Variable 1: 34
+Variable 2: 23
+Variable 3: 12
+Sum of variables: 69
+Aditya putra purnama 22201080
+BUILD SUCCESSFUL (total time: 16 seconds)
